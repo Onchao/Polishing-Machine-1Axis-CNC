@@ -1,1 +1,1 @@
-# Polishing-Machine-1Axis-CNC
+# Polishing Machine 1-Axis CNC
