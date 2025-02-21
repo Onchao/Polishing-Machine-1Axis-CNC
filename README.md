@@ -1,12 +1,12 @@
 # Polishing Machine 1-Axis CNC
 
-This project attaches a handheld polishing machine to the table with a linear guide to achieve hands-free operation and a uniform high-quality polish on metal flat bars.
+This project attaches a handheld polishing machine to the table with a linear guide to achieve hands-free operation and a uniform high-quality polish of metal flat bars.
 An Arduino-controlled stepper motor moves a gantry along the linear guide, ensuring a constant speed on a single axis. 
 Steady movements are crucial for producing an even finish on soft metals, especially with low-grit sandpaper.
 While professional solutions exist, they are ridiculously heavy and expensive, even if not automated.
 
 This was a side project during the early stages of setting up my company, [wheelsinshoes.com](www.wheelsinshoes.com).
-While the process of polishing aluminium parts for production runs is now outsourced, it still plays a crucial role in prototyping. 
+While the process of polishing aluminium parts for production runs is now outsourced, the machine still plays a crucial role in prototyping. 
 In my opinion, having the ability to perform all production processes in-house is one of the most important factors in achieving a high iteration rate.
 
 ## Project Features
