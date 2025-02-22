@@ -14,6 +14,12 @@ In my opinion, having the ability to perform all production processes in-house i
 - Constant linear motion in either direction
 - Hands-free operation for consistent results
 
+<p align="center">
+    <img src="docs/photo_blur.JPG" alt>
+    <em>Photo of the running polishing machine with high exposure time.</em>
+</p>
+
+
 ## What’s in This Repository?
 - Arduino C++ Code - Well-structured and easy to modify
 - Implementation of the Keypad Toggle Functionality - In my case it moves the gantry left or right as long as the key is pressed. _(Surprisingly, I was unable to find any working solutions online.)_
